@@ -1,0 +1,16 @@
+# Entornos y caché
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# Secretos
+.env
+.env.*
+*.pem
+# Archivos generados
+outputs/*.csv
+outputs/*.json
+data/processed/*.csv
+# Sistema
+.DS_Store

@@ -1,0 +1,4 @@
+id_venta,id_cliente,fecha,cantidad,precio_unitario,total_reportado
+4,103,03/02/2026,2,100000,200000
+5,102,31/02/2026,1,120000,120000
+6,101,08/02/2026,3,30000,89000
